@@ -2,4 +2,4 @@
 1
 2
 3
-p sreweight Reweights survey variables using external totals Use sreweight With STATA 19
+p robivreg Robust instrumental-variables regression estimator Use robivreg With STATA 19
